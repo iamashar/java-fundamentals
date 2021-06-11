@@ -76,10 +76,12 @@ public class Class02 {
 //          if(userAge >= 18)
 //          {
 //              System.out.println("Welcome to our application");
+                System.out.println(userAge);
 //          }
 //          else
 //          {
 //              System.out.println("Your are under age");
+                System.out.println(userAge);  
 //          }
 
 //        Conditions Example End
